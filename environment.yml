@@ -2,10 +2,10 @@ name: fastai
 channels:
 - fastai
 - pytorch
-- voila
 - defaults
 dependencies:
 - jupyter
+- voila
 - pytorch>=1.3.0
 - torchvision>=0.5
 - matplotlib
