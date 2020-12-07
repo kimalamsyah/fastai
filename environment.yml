@@ -2,6 +2,7 @@ name: fastai
 channels:
 - fastai
 - pytorch
+- voila
 - defaults
 dependencies:
 - jupyter
