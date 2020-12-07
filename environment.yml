@@ -5,6 +5,7 @@ channels:
 - defaults
 dependencies:
 - jupyter
+- voila
 - pytorch>=1.3.0
 - torchvision>=0.5
 - matplotlib
